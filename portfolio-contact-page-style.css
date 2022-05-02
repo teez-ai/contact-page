@@ -1,0 +1,13 @@
+body{
+	background-color: #251D3A;
+	color: #F7F7F7;
+	font-family:Century Gothic, Roboto, Helvetica, Sans-serif;
+}
+.large-title{
+	font-size: 2.5em;
+	font-weight:500px;
+}
+.contacts-page{
+	font: 16px Century Gothic, Roboto, Helvetica, Sans-serif; 
+	
+}
